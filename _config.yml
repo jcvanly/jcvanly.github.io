@@ -22,14 +22,14 @@ repository               : "jcvanly/jcvanly.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "jack.jpg" # filename of avatar image placed in /images/, e.g. "avatar.png"
   name             : "Jack Vanlyssel" # Name of the author
   pronouns         : # example: "she/her"  
   bio              : "Computer Science Masters Student"
   location         : "Albuquerque, NM, USA"
   employer         : "University of New Mexico"
   uri              : # URL
-  email            : "jackvanlyssel@gmail.com" 
+  email            : "jvanlyssel@unm.edu" 
 
   # Academic websites
   academia         : # URL
@@ -59,7 +59,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "jack.vanlyssel"
+  instagram        : # Username
   lastfm           : # Username
   linkedin         : "jack-vanlyssel"
   mastodon         : # URL
