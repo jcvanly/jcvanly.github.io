@@ -5,8 +5,6 @@ permalink: /recognition/
 author_profile: true
 ---
 
-# Recognition
-
 ## Inclusion in MITRE SPARTA Matrix
 In 2025, our work on **SpyChain: Multi-Vector Supply Chain Attacks in Small Satellites** led to the discovery of a previously undocumented malware technique involving **multi-component coordination for covert execution**.  
 This approach—where two or more compromised satellite components collaborate through covert triggers and data channels—was formally acknowledged and added to the **MITRE SPARTA** framework as a new technique under *Defense Evasion* with ID **DE-0012: Component Collusion**.
