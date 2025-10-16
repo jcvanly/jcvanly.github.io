@@ -1,11 +1,11 @@
 ---
-title: "Paper Title Number 2"
+title: "Silent Subversion: Sensor Spoofing Attacks via Supply Chain Implants in Satellite Systems"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
+excerpt: 'Presents a NOS3-based spoofing simulation where a compromised satellite component generates false telemetry accepted as legitimate by ground control.'
+date: 2025-10-03
+venue: 'In Progress'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
