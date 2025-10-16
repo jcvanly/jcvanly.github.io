@@ -11,26 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Computer Science, University of New Mexico, 2026 (expected)
+* B.S. in Computer Science, GitHub University, 2024
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Sandia National Laboratories – Intern
+  * Albuquerque, NM | May 2023 – May 2024
+  * Assisted the lead engineer in modernizing and automating the team’s support ticketing system.
+  * Developed JavaScript-based automation tools, including a round-robin ticket assignment system and report auto-population scripts.
+  * Collaborated across teams to integrate and stabilize new features.
+  * Expanded service coverage to additional sites, increasing team efficiency and impact.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Los Alamos National Laboratory – Intern
+  * Los Alamos, NM | May 2022 – May 2023
+  * Authored a system requirements document for modernizing the Facility Engineering Department’s SharePoint site.
+  * Analyzed workflows, identified inefficiencies, and translated stakeholder needs into actionable technical specifications.
+  * Designed an implementation plan to guide the modernization of department operations.
   
 Skills
 ======
@@ -41,13 +38,18 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
+Certificates
+======
+* CompTIA Security+ – August 2024  
+* Google Project Management Professional – June 2022
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -57,8 +59,15 @@ Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+  {% endfor %}</ul> -->
+
+Honors & Awards
 ======
-* Currently signed in to 43 different slack teams
+* CyberCorps Scholarship for Service 
+* UNM Dean’s List  (GPA > 3.5)
+  
+Professional Activities
+======
+* UNM Cyber Club – Active participant in Capture the Flag (CTF) competitions.  
+* Hack The Box – Regularly complete Pwnbox exercises in network exploitation and privilege escalation.  
+* LeetCode Practice – Continuous algorithm and data-structure training in Python.
