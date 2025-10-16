@@ -30,7 +30,7 @@ I build simulation environments, explore space system vulnerabilities, and desig
 ## 📂 Selected Projects
 
 - **SpyChain** – A small-satellite supply-chain malware simulation demonstrating covert telemetry exfiltration to a rogue ground actor via a compromised vendor component in NASA’s NOS3.
-- **Silent Subversion** – A CubeSat supply-chain spoofing simulation showing how a compromised onboard component can falsify telemetry and deceive ground operators in NASA’s NOS3.
+- **Silent Subversion** – A small-satellite supply-chain spoofing simulation showing how a compromised onboard component can falsify telemetry and deceive ground operators in NASA’s NOS3.
 
 Check out my [portfolio](/portfolio) or [publications](/publications) for more details.
 

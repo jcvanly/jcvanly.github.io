@@ -22,7 +22,7 @@ repository               : "jcvanly/jcvanly.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "jack.jpg" # filename of avatar image placed in /images/, e.g. "avatar.png"
+  avatar           : "jack.png" # filename of avatar image placed in /images/, e.g. "avatar.png"
   name             : "Jack Vanlyssel" # Name of the author
   pronouns         : # example: "she/her"  
   bio              : "Computer Science Masters Student"
