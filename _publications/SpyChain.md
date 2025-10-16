@@ -1,7 +1,7 @@
 ---
 title: "SpyChain: Multi-Vector Supply Chain Attacks on Small Satellite Systems"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/spychain
 excerpt: 'Demonstrates the first end-to-end simulation of multi-vector supply chain malware in NASA’s NOS3 environment, revealing how colluding satellite components can exfiltrate data and evade detection.'
 date: 2025-10-14

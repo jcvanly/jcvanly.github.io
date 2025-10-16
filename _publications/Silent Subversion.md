@@ -1,7 +1,7 @@
 ---
 title: "Silent Subversion: Sensor Spoofing Attacks via Supply Chain Implants in Satellite Systems"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Presents a NOS3-based spoofing simulation where a compromised satellite component generates false telemetry accepted as legitimate by ground control.'
 date: 2025-10-03
