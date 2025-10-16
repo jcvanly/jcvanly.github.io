@@ -17,26 +17,23 @@ Education
 Work experience
 ======
 * Sandia National Laboratories – Intern
-  * Albuquerque, NM | May 2023 – May 2024
+  * Albuquerque, NM || May 2023 – May 2024
   * Assisted the lead engineer in modernizing and automating the team’s support ticketing system.
   * Developed JavaScript-based automation tools, including a round-robin ticket assignment system and report auto-population scripts.
   * Collaborated across teams to integrate and stabilize new features.
   * Expanded service coverage to additional sites, increasing team efficiency and impact.
 
 * Los Alamos National Laboratory – Intern
-  * Los Alamos, NM | May 2022 – May 2023
+  * Los Alamos, NM || May 2022 – May 2023
   * Authored a system requirements document for modernizing the Facility Engineering Department’s SharePoint site.
   * Analyzed workflows, identified inefficiencies, and translated stakeholder needs into actionable technical specifications.
   * Designed an implementation plan to guide the modernization of department operations.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Technical Languages**: Python, C, C#, Bash  
+* **Tools & Frameworks**: Git, Linux, Unity, seccomp, cFS, NOS3  
+* **Professional Skills**: Project management, analytic thinking, technical writing, technical communication, research presentation  
 
 Certificates
 ======
