@@ -22,7 +22,7 @@ repository               : "jcvanly/jcvanly.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Jack.png" # filename of avatar image placed in /images/, e.g. "avatar.png"
+  avatar           : "IMG_9700.jpg" # filename of avatar image placed in /images/, e.g. "avatar.png"
   name             : "Jack Vanlyssel" # Name of the author
   pronouns         : # example: "she/her"  
   bio              : "Computer Science Masters Student"
@@ -59,7 +59,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "jack.vanlyssel"
   lastfm           : # Username
   linkedin         : "jack-vanlyssel"
   mastodon         : # URL
@@ -85,6 +85,8 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  preprints:
+    title: 'Preprints'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

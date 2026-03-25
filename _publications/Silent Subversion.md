@@ -2,12 +2,12 @@
 title: "Silent Subversion: Sensor Spoofing Attacks via Supply Chain Implants in Satellite Systems"
 collection: publications
 category: conferences
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'Presents a NOS3-based spoofing simulation where a compromised satellite component generates false telemetry accepted as legitimate by ground control.'
+permalink: /publication/Silent Subversion
+excerpt: 'Presents a NOS3-based simulation of supply chain–implanted malware, where a compromised satellite generates falsified telemetry that appears legitimate to ground control while retaining the ability to disable the targeted device.'
 date: 2025-10-03
-venue: 'In Progress'
+venue: 'AeroConf 2026 IEEE Aerospace Conference'
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-# paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: 'https://doi.org/10.48550/arXiv.2603.10388'
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 

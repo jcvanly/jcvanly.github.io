@@ -1,11 +1,11 @@
 ---
 title: "SpyChain: Multi-Vector Supply Chain Attacks on Small Satellite Systems"
 collection: publications
-category: conferences
+category: preprints
 permalink: /publication/spychain
 excerpt: 'Demonstrates the first end-to-end simulation of multi-vector supply chain malware in NASA’s NOS3 environment, revealing how colluding satellite components can exfiltrate data and evade detection.'
 date: 2025-10-14
-venue: "arXiv preprint arXiv:2510.06535"
+venue: "arXiv preprint"
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://doi.org/10.48550/arXiv.2510.06535'
 # bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'

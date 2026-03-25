@@ -4,9 +4,9 @@ title: "About Me"
 author_profile: true
 ---
 
-Hi, I’m **Jack Vanlyssel**, a Master’s student in Computer Science at the University of New Mexico, specializing in cybersecurity for small satellites and embedded systems.
+Hey, I’m **Jack Vanlyssel**, a PhD student in Computer Science at the University of New Mexico, specializing in cybersecurity for satellites and embedded systems.
 
-I build simulation environments, explore space system vulnerabilities, and design defensive software for CubeSats. My work focuses on stealthy malware, covert communication in flight software, and defensive mechanisms against supply chain attacks. I use tools like NASA’s NOS3 and embedded Linux to bring these projects to life.
+I build test environments, explore vulnerabilities, and design defensive software for space systems. My work focuses on stealthy malware, architectural trust abuse, and building defensive tools to protect critical infrastrucutre.
 
 ---
 
