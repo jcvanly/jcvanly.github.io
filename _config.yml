@@ -13,7 +13,7 @@ title                    : "Jack Vanlyssel"
 title_separator          : "-"
 name                     : &name "Jack Vanlyssel"
 description              : &description "Computer Science Masters Student"
-url                      : https://jcvanly.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://jackvanlyssel.com # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jcvanly/jcvanly.github.io"
 
@@ -22,7 +22,7 @@ repository               : "jcvanly/jcvanly.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_9700.jpg" # filename of avatar image placed in /images/, e.g. "avatar.png"
+  avatar           : "face.webp" # filename of avatar image placed in /images/, e.g. "avatar.png"
   name             : "Jack Vanlyssel" # Name of the author
   pronouns         : # example: "she/her"  
   bio              : "Computer Science Masters Student"
