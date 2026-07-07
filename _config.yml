@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Jack Vanlyssel"
 title_separator          : "-"
 name                     : &name "Jack Vanlyssel"
-description              : &description "Computer Science Masters Student"
+description              : &description "Computer Science Researcher"
 url                      : https://jackvanlyssel.com # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jcvanly/jcvanly.github.io"
@@ -59,9 +59,10 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "jack.vanlyssel"
+  instagram        : # Username
   lastfm           : # Username
   linkedin         : "jack-vanlyssel"
+  discovernewmexico: "https://discovernewmexico.org/" # URL
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
